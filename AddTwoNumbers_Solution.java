@@ -19,8 +19,6 @@
 package AddTwoNumbers_2;
 
 
-import sun.security.pkcs11.wrapper.CK_SSL3_KEY_MAT_OUT;
-
 public class AddTwoNumbers_Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2){
         ListNode dummy = new ListNode(0);
