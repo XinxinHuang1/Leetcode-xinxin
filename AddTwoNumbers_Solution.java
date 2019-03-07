@@ -16,7 +16,15 @@
  Explanation: 342 + 465 = 807.
 
  ******************************************************/
-package AddTwoNumbers_2;
+
+ /**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) { val = x; }
+ * }
+ */
 
 
 public class AddTwoNumbers_Solution {
