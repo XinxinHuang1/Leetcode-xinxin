@@ -1,6 +1,4 @@
 //source: https://leetcode.com/problems/two-sum////
-// @Xinxin Huang
-// 2019-03-10
 // Easy
 
 /******************************************************
